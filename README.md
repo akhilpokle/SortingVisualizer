@@ -1,3 +1,7 @@
+Implemented Merge Sort,Bubble Sort, Quick Sort and Insertion Sort. 
+
+Live site : https://sortingvisualizer-wutzyzowo.now.sh/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
